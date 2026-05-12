@@ -3,9 +3,7 @@ Real-State
 
 ## Screenshots
 
-![Dashboard](src/assets/Screenshot (39).png)()
-)
-
-![Dashboard with Slider](src/assets/Screenshot (40))
+![Screenshot 39](src/assets/Screenshot%20(39).png)
+![Screenshot 40](src/assets/Screenshot%20(40).png)
 
 ![Hero](src/assets/hero.png)
